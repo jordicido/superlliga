@@ -6,4 +6,5 @@ public class Partit {
     Equip equipRoig;
     Equip guanyador;
     Date hora;
+    Jugador mvp;
 }
