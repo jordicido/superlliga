@@ -6,13 +6,12 @@ public class Main {
      * @param args paràmetres d'entrada del programa
      */
     public static void main(String[] args) {
-        Jugador jugador1 = new Jugador();
-        jugador1.nom = "Jordi";
-        jugador1.cognom = "Cidoncha";
-        jugador1.rol = Rol.JUNGLE;
-        jugador1.edat = 36;
-        jugador1.nickname = "cidovich";
-
+        Jugador jugador1 = new Jugador("Jordi", "Cido", "cidovich", 36, Rol.JUNGLE);
+        Entrenador entrenador1 = new Entrenador("Ruben", "Talora", "Taylor", 18);
+        Equip equip1 = new Equip("Movistar KOI", "MKOI");
+        equip1.afegirJugadorTitular(jugador1);
+        equip1.afegirEntrenador(entrenador1);
+        equip1.imprimirAlineacio();
 
 
     }
