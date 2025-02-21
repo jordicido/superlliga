@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Equip {
@@ -14,14 +15,28 @@ public class Equip {
     }
 
     public void imprimirAlineacio() {
-        System.out.println(String.format("%1$25s %2$10s","NOM", "POSICIO"));
-        System.out.println("-----------------------------------");
-        for (Jugador jugador: titulars) {
-            System.out.println(String.format("%1$25s %2$10s", jugador.getCompletePlayerName(), jugador.getRol()));
-        }
-        System.out.println("-----------------------------------");
-        System.out.printf("%1$25s %2$10s", entrenador.getCompletePlayerName(), "ENTRENADOR");
+        // Ordenar listas de jugadores
+        titulars.sort(Comparator.comparing(jugador -> jugador.getRol().ordinal()));
+        reserves.sort(Comparator.comparing(jugador -> jugador.getRol().ordinal()));
 
+        // Imprimir jugadores
+        int anchoJugador = 35;
+        int anchoPosicion = 5;
+        System.out.println("··· " + getNom() + " ···");
+        System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", "JUGADORES TITULARES", "POSICIÓN");
+        System.out.println("---------------------------------------------");
+        for (Jugador jugador : titulars) {
+            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompletePlayerName(), jugador.getRol());
+        }
+        System.out.println("============================================="); // Añadir el entrenador
+        System.out.println("ENTRENADOR\n" + this.entrenador.getCompletePlayerName());
+        System.out.println("=============================================");
+        System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", "JUGADORES RESERVAS", "POSICIÓN");
+        System.out.println("---------------------------------------------");
+        for (Jugador jugador : reserves) {
+            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompletePlayerName(), jugador.getRol());
+        }
+        System.out.println();
     }
 
     public void afegirJugadorTitular(Jugador jugador) {
