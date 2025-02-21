@@ -37,6 +37,7 @@ public class Equip {
             System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompletePlayerName(), jugador.getRol());
         }
         System.out.println();
+        System.out.println();
     }
 
     public void afegirJugadorTitular(Jugador jugador) {
