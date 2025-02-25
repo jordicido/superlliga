@@ -1,4 +1,5 @@
 
+
 public class Main {
     /**
      * Funcio principal que executa el programa
@@ -12,7 +13,6 @@ public class Main {
         equip1.afegirJugadorTitular(jugador1);
         equip1.afegirEntrenador(entrenador1);
         equip1.imprimirAlineacio();
-
-
     }
+
 }
