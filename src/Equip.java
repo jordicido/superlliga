@@ -26,15 +26,15 @@ public class Equip {
         System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", "JUGADORES TITULARES", "POSICIÓN");
         System.out.println("---------------------------------------------");
         for (Jugador jugador : titulars) {
-            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompletePlayerName(), jugador.getRol());
+            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompleteName(), jugador.getRol());
         }
         System.out.println("============================================="); // Añadir el entrenador
-        System.out.println("ENTRENADOR\n" + this.entrenador.getCompletePlayerName());
+        System.out.println("ENTRENADOR\n" + this.entrenador.getCompleteName());
         System.out.println("=============================================");
         System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", "JUGADORES RESERVAS", "POSICIÓN");
         System.out.println("---------------------------------------------");
         for (Jugador jugador : reserves) {
-            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompletePlayerName(), jugador.getRol());
+            System.out.printf("%-" + anchoJugador + "s%-" + anchoPosicion + "s%n", jugador.getCompleteName(), jugador.getRol());
         }
         System.out.println();
         System.out.println();
