@@ -17,4 +17,8 @@ public class Jugador extends Participant{
     public void setRol(Rol rol) {
         this.rol = rol;
     }
+
+    public void setEdat(int edat) {
+        this.edat = edat;
+    }
 }
