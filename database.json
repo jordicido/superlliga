@@ -1,0 +1,328 @@
+{
+  "Equipos": [
+    {
+      "nom": "Los Heretics",
+      "entrenador": "Independent",
+      "tag": "LHS",
+      "jugadores": [
+        {
+          "nickname": "Tracyn",
+          "nombre": "Sebastian",
+          "apellido": "Wojtoń",
+          "rol": "TOP",
+          "edad": 24
+        },
+        {
+          "nickname": "Daglas",
+          "nombre": "Kacper",
+          "apellido": "Dagiel",
+          "rol": "JNG",
+          "edad": 22
+        },
+        {
+          "nickname": "Sajator",
+          "nombre": "Jan",
+          "apellido": "Zitek",
+          "rol": "MID",
+          "edad": 27
+        },
+        {
+          "nickname": "Rin",
+          "nombre": "Khalil",
+          "apellido": "Sahraoui",
+          "rol": "ADC",
+          "edad": 25
+        },
+        {
+          "nickname": "Kaiser",
+          "nombre": "Norman",
+          "apellido": "Kaiser",
+          "rol": "SUP",
+          "edad": 29
+        }
+      ],
+      "suplentes": [
+        {
+          "nickname": "naau",
+          "nombre": "Arnau",
+          "apellido": "Fores Garcia",
+          "rol": "JNG",
+          "edad": 23
+        }
+      ]
+    },
+    {
+      "nom": "Barça Esports",
+      "entrenador": "Jandro",
+      "tag": "BAR",
+      "jugadores": [
+        {
+          "nickname": "WhiteKnight",
+          "nombre": "Matti",
+          "apellido": "Antero Sormunen",
+          "rol": "TOP",
+          "edad": 26
+        },
+        {
+          "nickname": "Thayger",
+          "nombre": "Francisco",
+          "apellido": "Mazo Sanchez",
+          "rol": "JNG",
+          "edad": 28
+        },
+        {
+          "nickname": "Czekolad",
+          "nombre": "Paweł",
+          "apellido": "Szczepanik",
+          "rol": "MID",
+          "edad": 24
+        },
+        {
+          "nickname": "Legolas",
+          "nombre": "Sergio Vicente",
+          "apellido": "Gispert",
+          "rol": "ADC",
+          "edad": 30
+        },
+        {
+          "nickname": "Whiteinn",
+          "nombre": "Alexandru",
+          "apellido": "Kolozsvari",
+          "rol": "SUP",
+          "edad": 25
+        }
+      ],
+      "suplentes": [
+        {
+          "nickname": "Pauporter",
+          "nombre": "Pau",
+          "apellido": "Vintró Nogué",
+          "rol": "MID",
+          "edad": 22
+        }
+      ]
+    },
+    {
+      "nom": "Movistar KOI Fénix",
+      "entrenador": "Raqo",
+      "tag": "MKF",
+      "jugadores": [
+        {
+          "nickname": "Spooder",
+          "nombre": "Muhanad",
+          "apellido": "Maitham Sharad",
+          "rol": "TOP",
+          "edad": 23
+        },
+        {
+          "nickname": "Eckas",
+          "nombre": "Edgaras",
+          "apellido": "Strazdauskas",
+          "rol": "JNG",
+          "edad": 26
+        },
+        {
+          "nickname": "Fresskowy",
+          "nombre": "Bartłomiej",
+          "apellido": "Przewoźnik",
+          "rol": "MID",
+          "edad": 27
+        },
+        {
+          "nickname": "UNF0RGIVEN",
+          "nombre": "William",
+          "apellido": "Nieminen",
+          "rol": "ADC",
+          "edad": 29
+        },
+        {
+          "nickname": "Kamilius",
+          "nombre": "Kamil",
+          "apellido": "Košťál",
+          "rol": "SUP",
+          "edad": 24
+        }
+      ]
+    },
+    {
+      "nom": "Giantx Pride",
+      "entrenador": "Fearless",
+      "tag": "GXP",
+      "jugadores": [
+        {
+          "nickname": "Badlulu",
+          "nombre": "Lucas",
+          "apellido": "Piochaud",
+          "rol": "TOP",
+          "edad": 25
+        },
+        {
+          "nickname": "Ferret",
+          "nombre": "Hakan",
+          "apellido": "Mert Çakmak",
+          "rol": "JNG",
+          "edad": 28
+        },
+        {
+          "nickname": "Feisty",
+          "nombre": "Jeong",
+          "apellido": "Seong-hoon",
+          "rol": "MID",
+          "edad": 26
+        },
+        {
+          "nickname": "Aetinoth",
+          "nombre": "Berat",
+          "apellido": "Tıknazoğlu",
+          "rol": "ADC",
+          "edad": 23
+        },
+        {
+          "nickname": "Lospa",
+          "nombre": "Park",
+          "apellido": "Joon-hyeong",
+          "rol": "SUP",
+          "edad": 27
+        }
+      ],
+      "suplentes": [
+        {
+          "nickname": "Cayetano",
+          "nombre": "Jorge",
+          "apellido": "Mora García",
+          "rol": "TOP",
+          "edad": 24
+        }
+      ]
+    },
+    {
+      "nom": "Guasones",
+      "entrenador": "Yocks",
+      "tag": "GUA",
+      "jugadores": [
+        {
+          "nickname": "Selenex",
+          "nombre": "Eric",
+          "apellido": "Lozano Gutiérrez",
+          "rol": "TOP",
+          "edad": 26
+        },
+        {
+          "nickname": "Infinity",
+          "nombre": "Christian",
+          "apellido": "Hernando San José",
+          "rol": "JNG",
+          "edad": 29
+        },
+        {
+          "nickname": "Macaquiño",
+          "nombre": "Sergio",
+          "apellido": "Bouzende Rodrigues",
+          "rol": "MID",
+          "edad": 25
+        },
+        {
+          "nickname": "Ecstassy",
+          "nombre": "Marian Andrei",
+          "apellido": "Cândea",
+          "rol": "ADC",
+          "edad": 24
+        },
+        {
+          "nickname": "Smarty",
+          "nombre": "Matyáš",
+          "apellido": "Rozvoral",
+          "rol": "SUP",
+          "edad": 28
+        }
+      ]
+    },
+    {
+      "nom": "UCAM Esports",
+      "entrenador": "Kaze",
+      "tag": "UCAM",
+      "jugadores": [
+        {
+          "nickname": "Dreedy",
+          "nombre": "Andrei",
+          "apellido": "Rață",
+          "rol": "TOP",
+          "edad": 27
+        },
+        {
+          "nickname": "Hades",
+          "nombre": "Luis",
+          "apellido": "González",
+          "rol": "JNG",
+          "edad": 26
+        },
+        {
+          "nickname": "Siler",
+          "nombre": "Javier",
+          "apellido": "Sánchez",
+          "rol": "MID",
+          "edad": 25
+        },
+        {
+          "nickname": "Rafitta",
+          "nombre": "Rafael",
+          "apellido": "Ayllón",
+          "rol": "ADC",
+          "edad": 24
+        },
+        {
+          "nickname": "Efias",
+          "nombre": "Adrián",
+          "apellido": "Cuartero",
+          "rol": "SUP",
+          "edad": 28
+        }
+      ]
+    },
+    {
+      "nom": "ZETA",
+      "entrenador": "F1RE",
+      "tag": "ZTA",
+      "jugadores": [
+        {
+          "nickname": "Ethe",
+          "nombre": "Raúl",
+          "apellido": "Campos Vico",
+          "rol": "TOP",
+          "edad": 26
+        },
+        {
+          "nickname": "ElOjoNinja",
+          "nombre": "Daniel",
+          "apellido": "Vaquero Cotilla",
+          "rol": "JNG",
+          "edad": 25
+        },
+        {
+          "nickname": "ptt",
+          "nombre": "Isaac",
+          "apellido": "Flores Alvarado",
+          "rol": "MID",
+          "edad": 27
+        },
+        {
+          "nickname": "Adryh",
+          "nombre": "Adrián",
+          "apellido": "Pérez González",
+          "rol": "ADC",
+          "edad": 24
+        },
+        {
+          "nickname": "escoX",
+          "nombre": "Javier",
+          "apellido": "Escobedo",
+          "rol": "SUP",
+          "edad": 29
+        }
+      ]
+    }
+  ]
+}
+
+
+
