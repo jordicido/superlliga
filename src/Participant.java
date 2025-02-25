@@ -1,17 +1,17 @@
-public class Entrenador {
+public class Participant {
     private String nom;
     private String cognom;
     private String nickname;
     private int edat;
 
-    public Entrenador(String nom, String cognom, String nickname, int edat) {
+    public Participant(String nom, String cognom, String nickname, int edat) {
         this.nom = nom;
         this.cognom = cognom;
         this.nickname = nickname;
         this.edat = edat;
     }
 
-    public String getCompletePlayerName() {
+    public String getCompleteName() {
         return this.nom + " \"" + this.nickname + "\" " + this.cognom;
     }
 
@@ -29,5 +29,13 @@ public class Entrenador {
 
     public int getEdat() {
         return edat;
+    }
+
+    public void setNickname(String nickname) {
+        this.nickname = nickname;
+    }
+
+    public void setEdat(int edat) {
+        this.edat = edat;
     }
 }
