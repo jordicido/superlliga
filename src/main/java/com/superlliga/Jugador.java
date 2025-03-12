@@ -1,8 +1,6 @@
+package com.superlliga;
+
 public class Jugador extends Participant{
-    private String nom;
-    private String cognom;
-    private String nickname;
-    private int edat;
     private Rol rol;
 
     public Jugador(String nom, String cognom, String nickname, int edat, Rol rol) {
@@ -18,7 +16,5 @@ public class Jugador extends Participant{
         this.rol = rol;
     }
 
-    public void setEdat(int edat) {
-        this.edat = edat;
-    }
+
 }

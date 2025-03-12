@@ -1,3 +1,5 @@
+package com.superlliga;
+
 public enum TipusJornada {
     REGULAR,
     QUARTS,

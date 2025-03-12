@@ -1,3 +1,5 @@
+package com.superlliga;
+
 public class Posicio {
     private Equip equip;
     private int victories;

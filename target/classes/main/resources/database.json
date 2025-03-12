@@ -1,0 +1,556 @@
+{
+  "Equip": [
+    {
+      "nom": "Los Heretics",
+      "entrenador":
+        {
+          "nickname": "Independent",
+          "nom": "Eric",
+          "cognom": "Ruiz Bogurina",
+          "edat": "26"
+        }
+      ,
+      "tag": "LHS",
+      "titulars": [
+        {
+          "nickname": "Tracyn",
+          "nom": "Sebastian",
+          "cognom": "Wojtoń",
+          "rol": "TOP",
+          "edat": 24
+        },
+        {
+          "nickname": "Daglas",
+          "nom": "Kacper",
+          "cognom": "Dagiel",
+          "rol": "JUNGLE",
+          "edat": 22
+        },
+        {
+          "nickname": "Sajator",
+          "nom": "Jan",
+          "cognom": "Zitek",
+          "rol": "MID",
+          "edat": 27
+        },
+        {
+          "nickname": "Rin",
+          "nom": "Khalil",
+          "cognom": "Sahraoui",
+          "rol": "ADC",
+          "edat": 25
+        },
+        {
+          "nickname": "Kaiser",
+          "nom": "Norman",
+          "cognom": "Kaiser",
+          "rol": "SUPORT",
+          "edat": 29
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "naau",
+          "nom": "Arnau",
+          "cognom": "Fores Garcia",
+          "rol": "JUNGLE",
+          "edat": 23
+        }
+      ]
+    },
+    {
+      "nom": "Barça Esports",
+      "entrenador":
+        {
+          "nickname": "Jandro",
+          "nom": "Alejandro",
+          "cognom": "Fernández-Valdés Pedrosa",
+          "edat": "28"
+        },
+      "tag": "BAR",
+      "titulars": [
+        {
+          "nickname": "WhiteKnight",
+          "nom": "Matti",
+          "cognom": "Antero Sormunen",
+          "rol": "TOP",
+          "edat": 26
+        },
+        {
+          "nickname": "Thayger",
+          "nom": "Francisco",
+          "cognom": "Mazo Sanchez",
+          "rol": "JUNGLE",
+          "edat": 28
+        },
+        {
+          "nickname": "Czekolad",
+          "nom": "Paweł",
+          "cognom": "Szczepanik",
+          "rol": "MID",
+          "edat": 24
+        },
+        {
+          "nickname": "Legolas",
+          "nom": "Sergio Vicente",
+          "cognom": "Gispert",
+          "rol": "ADC",
+          "edat": 30
+        },
+        {
+          "nickname": "Whiteinn",
+          "nom": "Alexandru",
+          "cognom": "Kolozsvari",
+          "rol": "SUPORT",
+          "edat": 25
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "Pauporter",
+          "nom": "Pau",
+          "cognom": "Vintró Nogué",
+          "rol": "MID",
+          "edat": 22
+        }
+      ]
+    },
+    {
+      "nom": "Movistar KOI Fénix",
+      "entrenador":
+        {
+          "nickname": "Raqo",
+          "nom": "Max",
+          "cognom": "Temminck",
+          "edat": "26"
+        },
+      "tag": "MKF",
+      "titulars": [
+        {
+          "nickname": "Spooder",
+          "nom": "Muhanad",
+          "cognom": "Maitham Sharad",
+          "rol": "TOP",
+          "edat": 23
+        },
+        {
+          "nickname": "Eckas",
+          "nom": "Edgaras",
+          "cognom": "Strazdauskas",
+          "rol": "JUNGLE",
+          "edat": 26
+        },
+        {
+          "nickname": "Fresskowy",
+          "nom": "Bartłomiej",
+          "cognom": "Przewoźnik",
+          "rol": "MID",
+          "edat": 27
+        },
+        {
+          "nickname": "UNF0RGIVEN",
+          "nom": "William",
+          "cognom": "Nieminen",
+          "rol": "ADC",
+          "edat": 29
+        },
+        {
+          "nickname": "Kamilius",
+          "nom": "Kamil",
+          "cognom": "Košťál",
+          "rol": "SUPORT",
+          "edat": 24
+        }
+      ]
+    },
+    {
+      "nom": "Giantx Pride",
+      "entrenador":
+        {
+          "nickname": "FearlessS",
+          "nom": "José Miguel",
+          "cognom": "Pinto Lima dos Santos",
+          "edat": "29"
+        },
+      "tag": "GXP",
+      "titulars": [
+        {
+          "nickname": "Badlulu",
+          "nom": "Lucas",
+          "cognom": "Piochaud",
+          "rol": "TOP",
+          "edat": 25
+        },
+        {
+          "nickname": "Ferret",
+          "nom": "Hakan",
+          "cognom": "Mert Çakmak",
+          "rol": "JUNGLE",
+          "edat": 28
+        },
+        {
+          "nickname": "Feisty",
+          "nom": "Jeong",
+          "cognom": "Seong-hoon",
+          "rol": "MID",
+          "edat": 26
+        },
+        {
+          "nickname": "Aetinoth",
+          "nom": "Berat",
+          "cognom": "Tıknazoğlu",
+          "rol": "ADC",
+          "edat": 23
+        },
+        {
+          "nickname": "Lospa",
+          "nom": "Park",
+          "cognom": "Joon-hyeong",
+          "rol": "SUPORT",
+          "edat": 27
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "Cayetano",
+          "nom": "Jorge",
+          "cognom": "Mora García",
+          "rol": "TOP",
+          "edat": 24
+        }
+      ]
+    },
+    {
+      "nom": "Guasones",
+      "entrenador":
+        {
+          "nickname": "Yocks",
+          "nom": "Juan Manuel",
+          "cognom": "González-Aurioles",
+          "edat": "25"
+        },
+      "tag": "GUA",
+      "titulars": [
+        {
+          "nickname": "Selenex",
+          "nom": "Eric",
+          "cognom": "Lozano Gutiérrez",
+          "rol": "TOP",
+          "edat": 26
+        },
+        {
+          "nickname": "Infinity",
+          "nom": "Christian",
+          "cognom": "Hernando San José",
+          "rol": "JUNGLE",
+          "edat": 29
+        },
+        {
+          "nickname": "Macaquiño",
+          "nom": "Sergio",
+          "cognom": "Bouzende Rodrigues",
+          "rol": "MID",
+          "edat": 25
+        },
+        {
+          "nickname": "Ecstassy",
+          "nom": "Marian Andrei",
+          "cognom": "Cândea",
+          "rol": "ADC",
+          "edat": 24
+        },
+        {
+          "nickname": "Smarty",
+          "nom": "Matyáš",
+          "cognom": "Rozvoral",
+          "rol": "SUPORT",
+          "edat": 28
+        }
+      ]
+    },
+    {
+      "nom": "UCAM Esports",
+      "entrenador":
+        {
+          "nickname": "Crusher",
+          "nom": "Gonçalo",
+          "cognom": "Pinto Brandão",
+          "edat": "32"
+        },
+      "tag": "UCAM",
+      "titulars": [
+        {
+          "nickname": "Dreedy",
+          "nom": "Andrei",
+          "cognom": "Rață",
+          "rol": "TOP",
+          "edat": 27
+        },
+        {
+          "nickname": "Hades",
+          "nom": "Luis",
+          "cognom": "González",
+          "rol": "JUNGLE",
+          "edat": 26
+        },
+        {
+          "nickname": "Siler",
+          "nom": "Javier",
+          "cognom": "Sánchez",
+          "rol": "MID",
+          "edat": 25
+        },
+        {
+          "nickname": "Rafitta",
+          "nom": "Rafael",
+          "cognom": "Ayllón",
+          "rol": "ADC",
+          "edat": 24
+        },
+        {
+          "nickname": "Efias",
+          "nom": "Adrián",
+          "cognom": "Cuartero",
+          "rol": "SUPORT",
+          "edat": 28
+        }
+      ]
+    },
+    {
+      "nom": "ZETA",
+      "entrenador":
+        {
+          "nickname": "F1RE",
+          "nom": "Jose Maria",
+          "cognom": "Iznardo Salar",
+          "edat": "30"
+        }
+      ,
+      "tag": "ZTA",
+      "titulars": [
+        {
+          "nickname": "Ethe",
+          "nom": "Raúl",
+          "cognom": "Campos Vico",
+          "rol": "TOP",
+          "edat": 26
+        },
+        {
+          "nickname": "ElOjoNinja",
+          "nom": "Daniel",
+          "cognom": "Vaquero Cotilla",
+          "rol": "JUNGLE",
+          "edat": 25
+        },
+        {
+          "nickname": "ptt",
+          "nom": "Isaac",
+          "cognom": "Flores Alvarado",
+          "rol": "MID",
+          "edat": 27
+        },
+        {
+          "nickname": "Adryh",
+          "nom": "Adrián",
+          "cognom": "Pérez González",
+          "rol": "ADC",
+          "edat": 24
+        },
+        {
+          "nickname": "escoX",
+          "nom": "Javier",
+          "cognom": "Escobedo",
+          "rol": "SUPORT",
+          "edat": 29
+        }
+      ]
+    },
+    {
+      "nom": "VENI VIDI VICI",
+      "entrenador":
+        {
+          "nickname": "Exorant",
+          "nom": "Daniel",
+          "cognom": "Humer",
+          "edat": "40"
+        },
+      "tag": "VVV",
+      "titulars": [
+        {
+          "nickname": "CPM",
+          "nom": "Laurentiu",
+          "cognom": "Dodel",
+          "rol": "TOP",
+          "edat": 30
+        },
+        {
+          "nickname": "Time",
+          "nom": "Tiago",
+          "cognom": "Almeida",
+          "rol": "JUNGLE",
+          "edat": 22
+        },
+        {
+          "nickname": "Miniduke",
+          "nom": "Ismael",
+          "cognom": "Martínez",
+          "rol": "MID",
+          "edat": 27
+        },
+        {
+          "nickname": "Rayito",
+          "nom": "Michael",
+          "cognom": "Curtet",
+          "rol": "ADC",
+          "edat": 24
+        },
+        {
+          "nickname": "Thomas",
+          "nom": "Tomislav",
+          "cognom": "Nanjara",
+          "rol": "SUPORT",
+          "edat": 21
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "Enigma",
+          "nom": "Guillem",
+          "cognom": "Hernández Benítez",
+          "rol": "MID",
+          "edat": 22
+        },
+        {
+          "nickname": "Black",
+          "nom": "Esteban",
+          "cognom": "Lobos",
+          "rol": "TOP",
+          "edat": 28
+        }
+      ]
+    },
+    {
+      "nom": "Ramboot Club",
+      "entrenador":
+        {
+          "nickname": "Independent",
+          "nom": "Eric",
+          "cognom": "Ruiz Bogurina",
+          "edat": "26"
+        },
+      "tag": "RAM",
+      "titulars": [
+        {
+          "nickname": "iBo",
+          "nom": "Marcin",
+          "cognom": "Lebuda",
+          "rol": "TOP",
+          "edat": 29
+        },
+        {
+          "nickname": "bluerzor",
+          "nom": "Dániel",
+          "cognom": "Subicz",
+          "rol": "JUNGLE",
+          "edat": 26
+        },
+        {
+          "nickname": "twohoyrz",
+          "nom": "Mihail",
+          "cognom": "Petkov",
+          "rol": "MID",
+          "edat": 24
+        },
+        {
+          "nickname": "Coldraa",
+          "nom": "Samet",
+          "cognom": "Safran",
+          "rol": "ADC",
+          "edat": 23
+        },
+        {
+          "nickname": "Pyrka",
+          "nom": "Łukasz",
+          "cognom": "Grześkowiak",
+          "rol": "SUPORT",
+          "edat": 25
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "Marcv1",
+          "nom": "Marc",
+          "cognom": "Villalba de la Arada",
+          "rol": "ADC",
+          "edat": 27
+        },
+        {
+          "nickname": "Fendras",
+          "nom": "Carlos",
+          "cognom": "Lloret Cazorla",
+          "rol": "SUPORT",
+          "edat": 27
+        }
+      ]
+    },
+    {
+      "nom": "LUA Gaming",
+      "entrenador":
+        {
+          "nickname": "DeadShadow",
+          "nom": "João",
+          "cognom": "Fernandes",
+          "edat": "24"
+        },
+      "tag": "LUA",
+      "titulars": [
+        {
+          "nickname": "Marky",
+          "nom": "Pedro José",
+          "cognom": "Serrano Berzosa",
+          "rol": "TOP",
+          "edat": 22
+        },
+        {
+          "nickname": "Sn1lle",
+          "nom": "William",
+          "cognom": "Anderson",
+          "rol": "JUNGLE",
+          "edat": 24
+        },
+        {
+          "nickname": "Hydra",
+          "nom": "Raúl",
+          "cognom": "Moreno Valero",
+          "rol": "MID",
+          "edat": 26
+        },
+        {
+          "nickname": "Shy carry",
+          "nom": "Đorđe",
+          "cognom": "Stišović",
+          "rol": "ADC",
+          "edat": 28
+        },
+        {
+          "nickname": "Click",
+          "nom": "Vittorio",
+          "cognom": "Massolo",
+          "rol": "SUPORT",
+          "edat": 25
+        }
+      ],
+      "reserves": [
+        {
+          "nickname": "Fosky",
+          "nom": "Óscar",
+          "cognom": "Compadre Alonso",
+          "rol": "SUPORT",
+          "edat": 27
+        }
+      ]
+    }
+  ]
+}
+
+

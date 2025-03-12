@@ -1,3 +1,5 @@
+package com.superlliga;
+
 public class Participant {
     private String nom;
     private String cognom;
@@ -33,6 +35,10 @@ public class Participant {
 
     public int getEdat() {
         return edat;
+    }
+
+    public void setEdat(int edat) {
+        this.edat = edat;
     }
 }
 
