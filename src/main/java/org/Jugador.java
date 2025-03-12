@@ -2,7 +2,7 @@ package org;
 
 public final class Jugador  extends Participant{
 
-    private Rol rol;
+    protected Rol rol;
 
     public Jugador(String nom, String cognom, String nickname, int edat, Rol rol) {
         super(nom,cognom,nickname,edat);

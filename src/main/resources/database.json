@@ -11,7 +11,7 @@
         }
       ,
       "tag": "LHS",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Tracyn",
           "nom": "Sebastian",
@@ -48,7 +48,7 @@
           "edat": 29
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "naau",
           "nom": "Arnau",
@@ -68,7 +68,7 @@
           "edat": "28"
         },
       "tag": "BAR",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "WhiteKnight",
           "nom": "Matti",
@@ -105,7 +105,7 @@
           "edat": 25
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "Pauporter",
           "nom": "Pau",
@@ -125,7 +125,7 @@
           "edat": "26"
         },
       "tag": "MKF",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Spooder",
           "nom": "Muhanad",
@@ -173,7 +173,7 @@
           "edat": "29"
         },
       "tag": "GXP",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Badlulu",
           "nom": "Lucas",
@@ -210,7 +210,7 @@
           "edat": 27
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "Cayetano",
           "nom": "Jorge",
@@ -230,7 +230,7 @@
           "edat": "25"
         },
       "tag": "GUA",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Selenex",
           "nom": "Eric",
@@ -278,7 +278,7 @@
           "edat": "32"
         },
       "tag": "UCAM",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Dreedy",
           "nom": "Andrei",
@@ -327,7 +327,7 @@
         }
       ,
       "tag": "ZTA",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Ethe",
           "nom": "Raúl",
@@ -375,7 +375,7 @@
           "edat": "40"
         },
       "tag": "VVV",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "CPM",
           "nom": "Laurentiu",
@@ -412,7 +412,7 @@
           "edat": 21
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "Enigma",
           "nom": "Guillem",
@@ -439,7 +439,7 @@
           "edat": "26"
         },
       "tag": "RAM",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "iBo",
           "nom": "Marcin",
@@ -476,7 +476,7 @@
           "edat": 25
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "Marcv1",
           "nom": "Marc",
@@ -503,7 +503,7 @@
           "edat": "24"
         },
       "tag": "LUA",
-      "Jugador": [
+      "titulars": [
         {
           "nickname": "Marky",
           "nom": "Pedro José",
@@ -540,7 +540,7 @@
           "edat": 25
         }
       ],
-      "suplentes": [
+      "reserves": [
         {
           "nickname": "Fosky",
           "nom": "Óscar",

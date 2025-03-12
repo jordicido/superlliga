@@ -5,11 +5,11 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Equip {
-    final String nom;
-    final List<Jugador> titulars = new ArrayList<Jugador>();
-    final List<Jugador> reserves = new ArrayList<Jugador>();
-    private Entrenador entrenador;
-    final String tag;
+    protected String nom;
+    protected List<Jugador> titulars = new ArrayList<Jugador>();
+    protected List<Jugador> reserves = new ArrayList<Jugador>();
+    protected Entrenador entrenador;
+    protected String tag;
 
     public Equip(String nom, String tag) {
         this.nom = nom;
@@ -42,8 +42,8 @@ public class Equip {
         System.out.println();
     }
 
-    public void afegirJugadorTitular(Jugador jugador) {
-        titulars.add(jugador);
+    public void afegirTitulars(List<Jugador> jugador) {
+        this.titulars=jugador;
     }
 
     public void afegirJugadorSuplent(Jugador jugador) {
@@ -58,11 +58,11 @@ public class Equip {
         return nom;
     }
 
-    public List getTitulars() {
+    public List<Jugador> getTitulars() {
         return titulars;
     }
 
-    public List getReserves() {
+    public List<Jugador> getReserves() {
         return reserves;
     }
 
