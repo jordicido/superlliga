@@ -2,14 +2,14 @@
   "Equip": [
     {
       "nom": "Los Heretics",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Independent",
           "nom": "Eric",
           "cognom": "Ruiz Bogurina",
           "edat": "26"
         }
-      ],
+      ,
       "tag": "LHS",
       "Jugador": [
         {
@@ -60,14 +60,13 @@
     },
     {
       "nom": "Barça Esports",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Jandro",
           "nom": "Alejandro",
           "cognom": "Fernández-Valdés Pedrosa",
           "edat": "28"
-        }
-      ],
+        },
       "tag": "BAR",
       "Jugador": [
         {
@@ -118,14 +117,13 @@
     },
     {
       "nom": "Movistar KOI Fénix",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Raqo",
           "nom": "Max",
           "cognom": "Temminck",
           "edat": "26"
-        }
-      ],
+        },
       "tag": "MKF",
       "Jugador": [
         {
@@ -167,14 +165,13 @@
     },
     {
       "nom": "Giantx Pride",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "FearlessS",
           "nom": "José Miguel",
           "cognom": "Pinto Lima dos Santos",
           "edat": "29"
-        }
-      ],
+        },
       "tag": "GXP",
       "Jugador": [
         {
@@ -225,14 +222,13 @@
     },
     {
       "nom": "Guasones",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Yocks",
           "nom": "Juan Manuel",
           "cognom": "González-Aurioles",
           "edat": "25"
-        }
-      ],
+        },
       "tag": "GUA",
       "Jugador": [
         {
@@ -274,14 +270,13 @@
     },
     {
       "nom": "UCAM Esports",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Crusher",
           "nom": "Gonçalo",
           "cognom": "Pinto Brandão",
           "edat": "32"
-        }
-      ],
+        },
       "tag": "UCAM",
       "Jugador": [
         {
@@ -323,14 +318,14 @@
     },
     {
       "nom": "ZETA",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "F1RE",
           "nom": "Jose Maria",
           "cognom": "Iznardo Salar",
           "edat": "30"
         }
-      ],
+      ,
       "tag": "ZTA",
       "Jugador": [
         {
@@ -372,14 +367,13 @@
     },
     {
       "nom": "VENI VIDI VICI",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Exorant",
           "nom": "Daniel",
           "cognom": "Humer",
           "edat": "40"
-        }
-      ],
+        },
       "tag": "VVV",
       "Jugador": [
         {
@@ -437,14 +431,13 @@
     },
     {
       "nom": "Ramboot Club",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "Independent",
           "nom": "Eric",
           "cognom": "Ruiz Bogurina",
           "edat": "26"
-        }
-      ],
+        },
       "tag": "RAM",
       "Jugador": [
         {
@@ -502,14 +495,13 @@
     },
     {
       "nom": "LUA Gaming",
-      "entrenador": [
+      "entrenador":
         {
           "nickname": "DeadShadow",
           "nom": "João",
           "cognom": "Fernandes",
           "edat": "24"
-        }
-      ],
+        },
       "tag": "LUA",
       "Jugador": [
         {

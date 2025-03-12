@@ -1,13 +1,15 @@
+package org;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
 public class Equip {
-    private String nom;
-    private List<Jugador> titulars = new ArrayList<Jugador>();
-    private List<Jugador> reserves = new ArrayList<Jugador>();
+    final String nom;
+    final List<Jugador> titulars = new ArrayList<Jugador>();
+    final List<Jugador> reserves = new ArrayList<Jugador>();
     private Entrenador entrenador;
-    private String tag;
+    final String tag;
 
     public Equip(String nom, String tag) {
         this.nom = nom;

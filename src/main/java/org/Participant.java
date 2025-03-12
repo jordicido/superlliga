@@ -1,3 +1,5 @@
+package org;
+
 public class Participant {
     protected String nom;
     protected String cognom;

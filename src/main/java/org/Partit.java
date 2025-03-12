@@ -1,3 +1,5 @@
+package org;
+
 import java.util.Date;
 
 public class Partit {

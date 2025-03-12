@@ -1,4 +1,6 @@
-public class Jugador  extends Participant{
+package org;
+
+public final class Jugador  extends Participant{
 
     private Rol rol;
 
