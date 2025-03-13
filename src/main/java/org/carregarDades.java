@@ -24,6 +24,7 @@ public class carregarDades {
                     }
                 }
 
+
                 // Acceder a la lista de suplentes
                 if (equipo.reserves != null) {
                     System.out.println("Suplentes:");
