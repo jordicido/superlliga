@@ -29,3 +29,4 @@ Representa un jugador, estenent `Participant` amb un atribut addicional:
 
 ### Entrenador
 Representa un entrenador, estenent `Participant`.
+
