@@ -17,10 +17,15 @@ Substitueix `org.MainClass` per la classe principal real de la teva aplicació.
 ## Classes
 
 ### Participant
+
 Representa un participant amb els següents atributs:
+
 - `nom`: Nom
+
 - `cognom`: Cognom
+
 - `nickname`: Sobrenom
+
 - `edat`: Edat
 
 ### Jugador
@@ -29,3 +34,4 @@ Representa un jugador, estenent `Participant` amb un atribut addicional:
 
 ### Entrenador
 Representa un entrenador, estenent `Participant`.
+
