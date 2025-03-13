@@ -12,6 +12,10 @@ public class Participant {
         this.nickname = nickname;
         this.edat = edat;
     }
+    public String getCompletePlayerName() {
+        return this.nom + " \"" + this.nickname + "\" " + this.cognom;
+    }
+
     public String getNom() {
         return nom;
     }
