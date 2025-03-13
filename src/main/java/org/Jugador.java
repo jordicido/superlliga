@@ -9,10 +9,6 @@ public final class Jugador  extends Participant{
         this.rol = rol;
     }
 
-    public String getCompletePlayerName() {
-        return this.nom + " \"" + this.nickname + "\" " + this.cognom;
-    }
-
     public Rol getRol() {
         return rol;
     }

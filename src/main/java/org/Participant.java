@@ -1,10 +1,12 @@
-public class Entrenador {
+package org;
+
+public class Participant {
     private String nom;
     private String cognom;
     private String nickname;
     private int edat;
 
-    public Entrenador(String nom, String cognom, String nickname, int edat) {
+    public Participant(String nom, String cognom, String nickname, int edat) {
         this.nom = nom;
         this.cognom = cognom;
         this.nickname = nickname;
