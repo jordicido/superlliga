@@ -4,6 +4,8 @@ import org.carregarDades;
 
 public class Main {
     public static void main(String[] args) {
-        carregarDades.carregarLesDades();
+        Temporada temporada = new Temporada(2025, 1, null);
+
+        temporada.equips = carregarDades.carregarLesDades();
     }
 }

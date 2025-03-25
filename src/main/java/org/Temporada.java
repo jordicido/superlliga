@@ -8,6 +8,7 @@ public class Temporada {
     private int split;
     private List jornades = new ArrayList<Jornada>();
     private List classificacio = new ArrayList<Posicio>();
+    public List equips = new ArrayList<Equip>();
 
     public Temporada(int any, int split, List classificacio) {
         this.any = any;

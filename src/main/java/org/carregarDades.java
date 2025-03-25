@@ -1,34 +1,34 @@
 package org;
+
 import com.google.gson.Gson;
 import java.io.FileReader;
-
+import java.util.List;
 
 public class carregarDades {
-    public static void carregarLesDades(){
+    public static List<Equip> carregarLesDades() {
         Gson gson = new Gson();
         try (FileReader reader = new FileReader("src/main/resources/database.json")) {
             // Parse JSON to Java object
-
             // Convertir el JSON en un objeto Java
             Root root = gson.fromJson(reader, Root.class);
+            List<Equip> equips = root.getEquip();
 
             // Acceder a los equipos
-            for (Equip equipo : root.Equip) {
-                System.out.println("Equipo: " + equipo.getNom());
+            for (Equip equip : equips) {
+                System.out.println("Equipo: " + equip.getNom());
 
                 // Acceder a la lista de jugadores titulares
-                if (equipo.titulars != null) {
+                if (equip.titulars != null) {
                     System.out.println("Jugadores titulares:");
-                    for (Jugador jugador : equipo.getTitulars()) {
+                    for (Jugador jugador : equip.getTitulars()) {
                         System.out.println(" - " + jugador.getNickname() + " (" + jugador.getRol() + ")");
                     }
                 }
 
-
                 // Acceder a la lista de suplentes
-                if (equipo.reserves != null) {
+                if (equip.reserves != null) {
                     System.out.println("Suplentes:");
-                    for (Jugador suplente : equipo.getReserves()) {
+                    for (Jugador suplente : equip.getReserves()) {
                         System.out.println(" - " + suplente.getNickname() + " (" + suplente.getRol() + ")");
                     }
                 }
@@ -46,10 +46,11 @@ public class carregarDades {
                 }
             }
 
-            //System.out.println(root);
+            return equips;
 
         } catch (Exception e) {
             e.printStackTrace();
         }
+        return null;
     }
 }
