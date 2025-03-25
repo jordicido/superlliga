@@ -7,5 +7,7 @@ public class Main {
         Temporada temporada = new Temporada(2025, 1, null);
 
         temporada.equips = carregarDades.carregarLesDades();
+
+        System.out.println("Arxiu carregat amb exit");
     }
 }
