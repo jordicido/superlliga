@@ -14,6 +14,11 @@ public class Jornada {
         this.numero = numero;
         this.data = data;
         this.tipus = tipus;
+    }    
+
+    @Override
+    public String toString() {
+        return "Jornada [numero=" + numero + ", partits=" + partits + ", data=" + data + ", tipus=" + tipus + "]";
     }
 
     public int getNumero() {
